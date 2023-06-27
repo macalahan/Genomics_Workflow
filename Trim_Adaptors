@@ -1,0 +1,4 @@
+# Genome Assembly and Statistics
+
+## Step 2: TrimGalore!
+TrimGalore! is a "wrapper script" written to automate adaptor trimming and quality control. For more information, or to download, visit [TrimGalore!](https://www.bioinformatics.babraham.ac.uk/projects/trim_galore/).
